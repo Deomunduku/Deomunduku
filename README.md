@@ -1,6 +1,6 @@
 Bonjour, je suis Mr MUNDUKU MUNDUKU DEO.
 
-👀 Je m'intéresse à la vision par ordinateur, à l'apprentissage profond et à l'intelligence artificielle. J'explore également les applications de l'apprentissage automatique dans le domaine médical.
+👀 Je m'intéresse à la vision par ordinateur, à l'apprentissage profond et à l'intelligence artificielle ( actuellement dans le reseau de neuronne a decharge). J'explore également les applications de l'apprentissage automatique dans le domaine médical.
 
 🌱 Actuellement, je me perfectionne dans les techniques avancées de l'apprentissage automatique et des réseaux neuronaux.
 
@@ -8,7 +8,8 @@ Bonjour, je suis Mr MUNDUKU MUNDUKU DEO.
 
 📫 Comment me contacter :
 
-Email : 23315009@vnu.edu.vn
+Email : 23315009@vnu.edu.vn  , deomundukuobama@gmail.com
+
 WhatsApp : +84346782761, +243818089776
 Adresse : 144 Xuan Thuy, Cau Giay, Université Nationale du Vietnam, Hanoi
 😄 Pronoms : Il/Lui
